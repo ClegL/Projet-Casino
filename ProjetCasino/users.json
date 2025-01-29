@@ -1,0 +1,14 @@
+{
+    "Cleg": {
+        "solde": 875,
+        "level": 2,
+        "last_level_reached": 2,
+        "stats": {
+            "essais_tent\u00e9s": 1,
+            "R\u00e9ussis": 1,
+            "\u00e9checs": 0,
+            "essai_actuel": 1,
+            "essais_max": 1
+        }
+    }
+}
